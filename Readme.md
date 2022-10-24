@@ -51,7 +51,7 @@ To run the code on Turtlebot2, we used ROS melodic installed in a Docker contain
 
 To setup the Docker Container and connect to Turtlebot2  
 - Install [Docker](https://docs.docker.com/engine/install/) on your device
-- Open the [Turtlebot.zip]() in VsCode
+- Open the [Turtlebot.zip](https://github.com/SohamSarpotdar/Autonomous_Exploration/Turtlebot2.zip) in VsCode
 - Build the container and try resolving the errors, if any
 - In new Terminal, Run the command ``` bash .devcontainer/post_create_commands.sh``` 
 - Connect the Kobuki cable to your pc and in new terminal run ``` roslaunch turtlebot_bringup minimal.launch```
