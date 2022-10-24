@@ -14,12 +14,12 @@
   - [Maps](https://github.com/SohamSarpotdar/Autonomous_Exploration#maps-of-a-corner-of-lab--)
 - [Looking Forward to](https://github.com/SohamSarpotdar/Autonomous_Exploration#looking-forward-to--)
 
-## Description
+## Description :robot:
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92629417/197410812-79a8e4d7-0d01-465a-ab1f-d3432ba14ab7.gif)
 
 This project uses Robot Operating System(ROS) to move Turtlebot autonomously in an unexplored area with the help of LiDAR and at the same time create a map of the area. 
 
-## Turtlesim
+## Turtlesim :turtle:
 
 To understand some basic functionalities of [Rospy](http://wiki.ros.org/rospy) library which is used throughout this project and velocity control of a robot, Turtlesim node is used.
 
@@ -45,13 +45,13 @@ Applying p controller to control the turtles -
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/92629417/197510766-f0a685ce-dfee-46c4-8dbf-706d42d9e39b.gif)
 
-## Docker 
+## Docker <img src="https://user-images.githubusercontent.com/92629417/197572181-a6bd28c5-6a82-4978-990f-806e2162290a.png" width="30" height="20" />
 
 To run the code on Turtlebot2, we used ROS melodic installed in a Docker container.
 
 To setup the Docker Container and connect to Turtlebot2  
 - Install [Docker](https://docs.docker.com/engine/install/) on your device
-- Open the [Turtlebot.zip](https://github.com/SohamSarpotdar/Autonomous_Exploration/Turtlebot2.zip) in VsCode
+- Open the Turtlebot2.zip in VsCode
 - Build the container and try resolving the errors, if any
 - In new Terminal, Run the command ``` bash .devcontainer/post_create_commands.sh``` 
 - Connect the Kobuki cable to your pc and in new terminal run ``` roslaunch turtlebot_bringup minimal.launch```
