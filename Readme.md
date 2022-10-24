@@ -5,10 +5,10 @@
 # Autonomous Exploration using Turtlebot <img src="https://user-images.githubusercontent.com/92629417/197411798-d35da8fb-9153-4104-9faa-556a2e9cdeab.gif" width="38" height="35" />  <img src="https://user-images.githubusercontent.com/92629417/197412192-87d76ad9-b654-4701-9e0f-12b7c35552b6.gif" width="38" height="35" /> 
 
 ## Table of Contents 
-- [Description](https://github.com/SohamSarpotdar/Autonomous_Exploration#description)
-- [Turtlesim](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlesim)
+- [Description](https://github.com/SohamSarpotdar/Autonomous_Exploration#description-robot)
+- [Turtlesim](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlesim-turtle)
 - [Turtlebot3 Simulations and Mapping](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlebot3-simulations-and-mapping)
-- [Docker](https://github.com/SohamSarpotdar/Autonomous_Exploration#docker)
+- [Docker](https://github.com/SohamSarpotdar/Autonomous_Exploration#docker-)
 - [Results](https://github.com/SohamSarpotdar/Autonomous_Exploration#results)
   - [Avoiding Obstacles](https://github.com/SohamSarpotdar/Autonomous_Exploration#avoiding-obstacles--)
   - [Maps](https://github.com/SohamSarpotdar/Autonomous_Exploration#maps-of-a-corner-of-lab--)
