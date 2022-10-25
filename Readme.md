@@ -7,7 +7,7 @@
 ## Table of Contents 
 - [Description](https://github.com/SohamSarpotdar/Autonomous_Exploration#description-robot)
 - [Turtlesim](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlesim-turtle)
-- [Turtlebot3 Simulations and Mapping](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlebot3-simulations-and-mapping)
+- [Turtlebot3 Simulations and Mapping](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlebot3-simulation-and-mapping)
 - [Docker](https://github.com/SohamSarpotdar/Autonomous_Exploration#docker-)
 - [Results](https://github.com/SohamSarpotdar/Autonomous_Exploration#results)
   - [Avoiding Obstacles](https://github.com/SohamSarpotdar/Autonomous_Exploration#avoiding-obstacles--)
