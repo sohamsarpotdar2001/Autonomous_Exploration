@@ -71,7 +71,7 @@ We finally deployed our code on Turtlebot2 and, after facing some issues and ref
 
 <img src="https://user-images.githubusercontent.com/92629417/197415431-5d706210-aaee-475d-a602-25d47e0e69dd.gif" width="380" height="420" /> <img src="https://user-images.githubusercontent.com/92629417/197417790-4b180820-5ce3-470d-84f3-7ccb0ca5a69d.gif" width="390" height="420" /> 
 
-The ranges' list in LiDAR [data](http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html) has a length of 720. Central region is defined in first 40 values and last 40 values which would correspond to 20 degrees left and right of the normal line to the robot. Left and Right regions are defined by next 140 values from beginning and end of the list respectively. Average value of range is found in each of these regions and if found less than the safe distance of robot from an obstacle, in any region then move in turn or move in some other direction.
+The ranges' list in LiDAR [data](http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html) has a length of 720. Central region is defined in first 40 values and last 40 values which would correspond to 20 degrees left and right of the normal line to the robot. Left and Right regions are defined by next 140 values from beginning and end of the list respectively. Average value of range is found in each of these regions and if found less than the safe distance of robot from an obstacle, in any region then move or turn or move in some other direction.
 
 As we used only one sensor in this project, which is LiDAR, only hector mapping was possible.
 
