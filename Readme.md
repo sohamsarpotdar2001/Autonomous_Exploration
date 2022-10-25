@@ -26,11 +26,15 @@ To understand some basic functionalities of [rospy](http://wiki.ros.org/rospy) l
 
 Tracing some common shapes - 
 
-<img src="https://user-images.githubusercontent.com/92629417/197455894-23a603e1-9239-4745-900d-45690bd41a75.gif" width="260" height="260" /> <img src="https://user-images.githubusercontent.com/92629417/197455897-aa6f057d-232e-444d-80ae-d93939ea146e.gif" width="260" height="260" /> <img src="https://user-images.githubusercontent.com/92629417/197455902-295241d9-73ad-4eab-867c-f90efeb2f81a.gif" width="260" height="260" />
+| <img src="https://user-images.githubusercontent.com/92629417/197455894-23a603e1-9239-4745-900d-45690bd41a75.gif" width="240" height="240" /> | <img src="https://user-images.githubusercontent.com/92629417/197455897-aa6f057d-232e-444d-80ae-d93939ea146e.gif" width="240" height="240" /> | <img src="https://user-images.githubusercontent.com/92629417/197455902-295241d9-73ad-4eab-867c-f90efeb2f81a.gif" width="240" height="240" /> |
+|:--:|:--:|:--:|
+| Circle | Square | Square Spiral | 
 
 Applying P controller to control the turtles - 
 
-<img src="https://user-images.githubusercontent.com/92629417/197455887-3a734f2d-c62f-4995-972f-692ed789c3e1.gif" width="260" height="260" /> <img src="https://user-images.githubusercontent.com/92629417/197455890-ee2e2415-a235-4bce-951c-9727fa2afd20.gif" width="260" height="260" /> <img src="https://user-images.githubusercontent.com/92629417/197455895-86bd9a2a-42df-4db1-8d2a-657670bb71f1.gif" width="260" height="260" />
+| <img src="https://user-images.githubusercontent.com/92629417/197455887-3a734f2d-c62f-4995-972f-692ed789c3e1.gif" width="240" height="240" /> | <img src="https://user-images.githubusercontent.com/92629417/197455890-ee2e2415-a235-4bce-951c-9727fa2afd20.gif" width="240" height="240" /> | <img src="https://user-images.githubusercontent.com/92629417/197455895-86bd9a2a-42df-4db1-8d2a-657670bb71f1.gif" width="240" height="240" /> |
+|:--:|:--:|:--:|
+| Go-to-goal | Leader Follower | Formation Control |
 
 ## Turtlebot3 Simulation and Mapping
 We first performed teleoperation(operating manually through keyboard) and both mapping techniques in simulation and then we implemented the same on hardware.  
@@ -78,5 +82,5 @@ As we used only one sensor in this project, which is LiDAR, only hector mapping 
 <img src="https://user-images.githubusercontent.com/92629417/197415489-86161f30-7bc2-4045-9f5c-5765d663839a.PNG" width="380" height="350" /> <img src="https://user-images.githubusercontent.com/92629417/197415490-6814b7ba-1bd9-4cf7-899a-8e849c4d1e0d.PNG" width="380" height="350" />
 
 ## Looking Forward to -
-- Removing Distortions in the maps
-- Applying Path Planning [Algorithms](https://en.wikipedia.org/wiki/Motion_planning#Algorithms)
+- [ ] Removing Distortions in the maps
+- [ ] Applying Path Planning [Algorithms](https://en.wikipedia.org/wiki/Motion_planning#Algorithms)
