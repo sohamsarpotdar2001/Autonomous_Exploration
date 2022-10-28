@@ -5,14 +5,14 @@
 # Autonomous Exploration using Turtlebot <img src="https://user-images.githubusercontent.com/92629417/197411798-d35da8fb-9153-4104-9faa-556a2e9cdeab.gif" width="35" height="32" />  <img src="https://user-images.githubusercontent.com/92629417/197412192-87d76ad9-b654-4701-9e0f-12b7c35552b6.gif" width="35" height="32" /> 
 
 ## Table of Contents 
-- [Description](https://github.com/SohamSarpotdar/Autonomous_Exploration#description-robot)
-- [Turtlesim](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlesim-turtle)
-- [Turtlebot3 Simulations and Mapping](https://github.com/SohamSarpotdar/Autonomous_Exploration#turtlebot3-simulation-and-mapping)
-- [Docker](https://github.com/SohamSarpotdar/Autonomous_Exploration#docker-)
-- [Results](https://github.com/SohamSarpotdar/Autonomous_Exploration#results)
-  - [Avoiding Obstacles](https://github.com/SohamSarpotdar/Autonomous_Exploration#avoiding-obstacles--)
-  - [Maps](https://github.com/SohamSarpotdar/Autonomous_Exploration#maps-of-a-corner-of-lab--)
-- [Looking Forward to](https://github.com/SohamSarpotdar/Autonomous_Exploration#looking-forward-to--)
+- [Description](#description-robot)
+- [Turtlesim](#turtlesim-turtle)
+- [Turtlebot3 Simulation and Mapping](#turtlebot3-simulation-and-mapping)
+- [Docker](#docker-)
+- [Results](#results)
+  - [Avoiding Obstacles](#avoiding-obstacles--)
+  - [Maps](#maps-of-a-corner-of-lab--)
+- [Looking Forward to](#looking-forward-to--)
 
 ## Description :robot:
 
