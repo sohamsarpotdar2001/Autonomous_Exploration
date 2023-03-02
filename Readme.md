@@ -75,11 +75,11 @@ The ranges' list in LiDAR [data](http://docs.ros.org/en/melodic/api/sensor_msgs/
 
 As we used only one sensor in this project, which is LiDAR, only hector mapping was possible.
 
-### Maps of a Corner of Lab - 
-<img src="https://user-images.githubusercontent.com/92629417/197415492-eb471516-4029-4210-a3a0-73b90232bbb4.PNG" width="380" height="350" /> <img src="https://user-images.githubusercontent.com/92629417/197415484-4bcf2629-d223-4d5b-bb7f-dd3a98e8d82f.PNG" width="380" height="350" />
+### Maps of some parts of Lab - 
+<img src="https://user-images.githubusercontent.com/92629417/197415489-86161f30-7bc2-4045-9f5c-5765d663839a.PNG" width="380" height="350" /> <img src="https://user-images.githubusercontent.com/92629417/197415484-4bcf2629-d223-4d5b-bb7f-dd3a98e8d82f.PNG" width="380" height="350" />
 
-### Maps of other parts - 
-<img src="https://user-images.githubusercontent.com/92629417/197415489-86161f30-7bc2-4045-9f5c-5765d663839a.PNG" width="380" height="350" /> <img src="https://user-images.githubusercontent.com/92629417/197415490-6814b7ba-1bd9-4cf7-899a-8e849c4d1e0d.PNG" width="380" height="350" />
+### Map of a corridor area - 
+<img src="https://user-images.githubusercontent.com/92629417/222418513-fca783fb-a0e7-4f95-924b-bf75f6c68bfb.png" width="350" height="300" /> <img src="https://user-images.githubusercontent.com/92629417/222419563-e5fb1856-b53d-4476-a55b-8d44fe5022a9.png" width="410" height="300" />
 
 ## Looking Forward to -
 - [ ] Removing Distortions in the maps
