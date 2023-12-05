@@ -2,7 +2,7 @@
 
 
 
-# Autonomous Exploration using Turtlebot <img src="https://user-images.githubusercontent.com/92629417/197411798-d35da8fb-9153-4104-9faa-556a2e9cdeab.gif" width="35" height="32" />  <img src="https://user-images.githubusercontent.com/92629417/197412192-87d76ad9-b654-4701-9e0f-12b7c35552b6.gif" width="35" height="32" /> 
+# Autonomous Exploration using Turtlebot
 
 ## Table of Contents 
 - [Description](#description-robot)
@@ -14,13 +14,13 @@
   - [Maps](#maps-of-a-corner-of-lab--)
 - [Looking Forward to](#looking-forward-to--)
 
-## Description :robot:
+## Description
 
 <img src="https://user-images.githubusercontent.com/92629417/197410812-79a8e4d7-0d01-465a-ab1f-d3432ba14ab7.gif" width="795" height="400" />
 
 This project uses Robot Operating System(ROS) to move Turtlebot autonomously in an unexplored area with the help of [LiDAR](https://www.ydlidar.com/products/view/5.html) and at the same time create a map of the area. 
 
-## Turtlesim :turtle:
+## Turtlesim 
 
 To understand some basic functionalities of [rospy](http://wiki.ros.org/rospy) library which is used throughout this project and velocity control of a robot, Turtlesim node is used.
 
